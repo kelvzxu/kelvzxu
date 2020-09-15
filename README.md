@@ -54,7 +54,7 @@ PHP          9  hrs 29 mins   █████▒░░░░░░░░░░�
 SAP ABAP     5  hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 JSON         3  hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/pin/?username=kelvzxu&repo=kelvzxu" width="400" height="400" />
+<!--  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/pin/?username=kelvzxu&repo=kelvzxu" width="400" height="400" /> -->
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
